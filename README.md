@@ -12,15 +12,15 @@ This is a <img src="sparkle3.gif" width="25" height="25"> sparkling <img src="sp
 
 ### <img src="sparkle1.gif" width="30" height="30"> Features <img src="sparkle1.gif" width="30" height="30">
 
-- <img src="sparkle1.gif" width="25" height="25"> Sparkles everywhere
-- <img src="sparkle2.gif" width="22" height="22"> More sparkles
-- <img src="sparkle3.gif" width="22" height="22"> Even more sparkles
-- <img src="sparkle1.gif" width="25" height="25"> Can you handle all these sparkles?
-- <img src="sparkle2.gif" width="22" height="22"> Because there are so many!
-- <img src="sparkle3.gif" width="22" height="22"> Sparkle sparkle sparkle
-- <img src="sparkle1.gif" width="25" height="25"> <img src="sparkle2.gif" width="22" height="22"> <img src="sparkle3.gif" width="22" height="22"> Triple sparkles!
-- <img src="sparkle2.gif" width="22" height="22"> This is sparkling content
-- <img src="sparkle1.gif" width="25" height="25"> Maximum sparkle achieved
+- <img src="sparkle1.gif" width="23" height="23"> Sparkles everywhere
+- <img src="sparkle2.gif" width="23" height="23"> More sparkles
+- <img src="sparkle3.gif" width="23" height="23"> Even more sparkles
+- <img src="sparkle1.gif" width="23" height="23"> Can you handle all these sparkles?
+- <img src="sparkle2.gif" width="23" height="23"> Because there are so many!
+- <img src="sparkle3.gif" width="23" height="23"> Sparkle sparkle sparkle
+- <img src="sparkle1.gif" width="23" height="23"> <img src="sparkle2.gif" width="23" height="23"> <img src="sparkle3.gif" width="23" height="23"> Triple sparkles!
+- <img src="sparkle2.gif" width="23" height="23"> This is sparkling content
+- <img src="sparkle1.gif" width="23" height="23"> Maximum sparkle achieved
 
 <img src="sparkle2.gif" width="25" height="25"> ✨ <img src="sparkle1.gif" width="30" height="30"> ✨ <img src="sparkle3.gif" width="25" height="25"> ✨ ✨ <img src="sparkle2.gif" width="25" height="25"> ✨ <img src="sparkle1.gif" width="30" height="30"> ✨ ✨ <img src="sparkle3.gif" width="25" height="25"> ✨ <img src="sparkle2.gif" width="25" height="25"> ✨ ✨ <img src="sparkle1.gif" width="30" height="30"> ✨ <img src="sparkle3.gif" width="25" height="25"> ✨ ✨ <img src="sparkle2.gif" width="25" height="25"> ✨ ✨ <img src="sparkle1.gif" width="30" height="30">
 
